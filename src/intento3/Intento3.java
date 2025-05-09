@@ -9,7 +9,7 @@ public class Intento3 {
         
         String name; 
         String edad; 
-        int e, 
+        int e;
        
     }
     
