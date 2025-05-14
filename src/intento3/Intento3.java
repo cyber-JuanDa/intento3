@@ -11,6 +11,7 @@ public class Intento3 {
         String edad; 
         int e;
         String x;
+		double n;
        
     }
     
